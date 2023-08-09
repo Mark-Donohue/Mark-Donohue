@@ -1,3 +1,3 @@
 <h1>Hi, I’m @Mark-Donohue.</h1>
 
-I'm a software engineer specializing in back-end API development. Currently, I'm focused on building efficient and secure APIs at Mediaocean. Please feel free to reach out at markbdonohue@gmail.com.
+<p>I'm a software engineer based in New York City. Currently, I'm focused on designing and building efficient and secure APIs at Mediaocean. Please feel free to reach out!</p>
